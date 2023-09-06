@@ -13,4 +13,5 @@ This project is a machine learning-based music recommendation system that sugges
 - TensorFlow
 - OpenCV
 - Spotify API (or the API of your chosen music service)
-- Libraries listed in `requirements.txt`
+
+## Enjoy and experiment with it!!
